@@ -1,0 +1,25 @@
+{
+  "name": "react-in-motion",
+  "version": "1.0.0",
+  "description": "A React animation library based on iOS SpriteKit",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "animation"
+  ],
+  "author": "John Lyon-Smith",
+  "license": "MIT",
+  "dependencies": {
+    "auto-bind2": "^1.0.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "jest": "^21.1.0"
+  }
+}
